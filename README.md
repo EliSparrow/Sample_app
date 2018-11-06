@@ -1,14 +1,15 @@
 # Lundi 5/11
 
 ## Voici le lien vers notre exo :
+https://benefica-fc.herokuapp.com/contact
 
 
 ### Une fois pull
 ```
-bundle install
-bundle exec rake db:create
-bundle exec rake db:migrate
-bundle exec rails server
+$ bundle install
+$ bundle exec rake db:create
+$ bundle exec rake db:migrate
+$ bundle exec rails server
 ```
 
 ## Et voici notre belle équipe :frog: :
