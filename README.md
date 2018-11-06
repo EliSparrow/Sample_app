@@ -1,7 +1,7 @@
 # Lundi 5/11
 
 ## Voici le lien vers notre exo :
-https://benefica-fc.herokuapp.com/contact
+https://benefica-fc.herokuapp.com
 
 
 ### Une fois pull
