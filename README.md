@@ -3,7 +3,6 @@
 ## Voici le lien vers notre exo :
 
 
-
 ### Une fois pull
 ```
 bundle install
